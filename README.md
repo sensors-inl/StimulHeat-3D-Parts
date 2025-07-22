@@ -1,6 +1,9 @@
 <p align="center">
     <img src="assets/stimulheat-logo.png" align="center" width="50%">
 </p>
+<p align="center">
+    <a href="https://ohwr.org/project/cernohl/wikis/CERN-OHL-version-2"><img alt="License: CERN-OHL-S-2.0" src="https://img.shields.io/badge/License-CERN--OHL--S--2.0-blue.svg"/></a>
+</p>
 
 ## Stimulheat - 3D Parts
 
