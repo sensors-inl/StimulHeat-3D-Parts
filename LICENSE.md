@@ -42,7 +42,7 @@ We encourage citation of the original publication or project repository if this 
 
 ## ℹ️ Disclaimer
 
-This work is provided “as is” without warranty of any kind. The authors and INSA Lyon -INL shall not be held liable for any damage or misuse resulting from its use.
+This work is provided “as is” without warranty of any kind. The authors and INSA Lyon - INL shall not be held liable for any damage or misuse resulting from its use.
 
 ---
 

@@ -7,7 +7,7 @@
 
 ## Stimulheat - 3D Parts
 
-The **Stimulheat - 3D Parts** project is part of the **StimulHeat** toolkit and contains all the step files needed to reproduce the device. It was developed using Autodesk - Fusion 360.
+The **Stimulheat - 3D Parts** project is part of the **StimulHeat** toolkit and contains all the step files needed to reproduce the device. All parts were designed using Autodesk - Fusion 360.
 
 ---
 
